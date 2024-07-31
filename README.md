@@ -1,3 +1,5 @@
+# THE SNAKE GAME
+
 Initializes the game variables and starts the game when the page loads or the restart button is clicked.
 Adds a score counter that increments when the snake eats the food.
 Adjusts the speed of the game based on the score to increase the difficulty as the snake grows.
